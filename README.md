@@ -122,7 +122,7 @@ This project serves as a comprehensive guide that explains mathematical operatio
 *()*
 
 ## License
-"This project is in the public domain; anyone can use it for their own benefit."
+This project is in the public domain; anyone can use it for their own benefit.
 ## References & Sources
 
 The structure and categorization of the mathematics topics in this repository are inspired by and based upon the following resources:
